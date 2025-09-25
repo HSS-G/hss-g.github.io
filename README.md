@@ -1,1 +1,2 @@
-# hss-g.github.io
+# HSS-G
+Will not get contents as of right now.
